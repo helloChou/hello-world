@@ -1,5 +1,6 @@
-# hello-world
-
 Hi!
-This is Zhou,I'm pleasure to tell you that your code is excellent!
-Please call me untill next Monday!
+
+I'm Zhou,This is my first time to use github.
+I'm a student in HUST Now.
+I want to write some cool codes in there.
+
